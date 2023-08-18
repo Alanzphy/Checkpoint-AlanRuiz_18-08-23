@@ -1,0 +1,60 @@
+ 1459  git init
+ 1460  git branch -M main
+ 1461  git remote add origin https://github.com/Alanzphy/Checkpoint-AlanRuiz_18-08-23.git
+ 1462  git push -u origin main
+ 1463  touch main.js index.html
+ 1464  git branch --help
+ 1465  git checkout -b feature
+ 1466  git status
+ 1467  git branch main
+ 1468  git checkout main
+ 1469  git switch main
+ 1470  git checkout -b main
+ 1471  git remote -vv
+ 1472  l
+ 1473  git commit -am "commit 01 de AlanRuiz"
+ 1474  git add .
+ 1475  git commit -m "commit 01 de AlanRuiz"
+ 1476  git status
+ 1477  git s
+ 1478  git log
+ 1479  git checkout -b feature
+ 1480  git switch main
+ 1481  git switch feature
+ 1482  git s
+ 1483  mkdir Hardware Software SeguridadInformatica
+ 1484  cd Hardware
+ 1485  touch resumen.txt
+ 1486  cd ..
+ 1487  cd SeguridadInformatica
+ 1488  touch resumen.txt
+ 1489  cd ..
+ 1490  cd Software
+ 1491  touch resumen.txt
+ 1492  cd ..
+ 1493  git s
+ 1494  git switch main
+ 1495  git s
+ 1496  git branch -d feature
+ 1497  l
+ 1498  git push -u origin main
+ 1499  git config --global -e
+ 1500  git push -u origin main
+ 1501  l
+ 1502  git checkout -b feature
+ 1503  git s
+ 1504  git status
+ 1505  l
+ 1506  git push origin feature
+ 1507  git s
+ 1508  git add .
+ 1509  git commit -m "commit 02 de AlanRuiz"
+ 1510  git push origin feature
+ 1511  git switch main
+ 1512  mv main.js resumenHardware.txt
+ 1513  l
+ 1514  mv index.html resumenSoftware.txt
+ 1515  v resumenSoftware.txt
+ 1516  v resumenHardware.txt
+ 1517  touch comandos.txt
+
